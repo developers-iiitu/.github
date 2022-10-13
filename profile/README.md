@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are Devilopores</h1>
-<h3 align="center">We are a 0rganization for the developers to build something</h3>
+<h3 align="center">We are an organization for the developers to build something</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developers-iiitu&label=Profile%20views&color=0e75b6&style=flat" alt="developers-iiitu" /> </p>
 
